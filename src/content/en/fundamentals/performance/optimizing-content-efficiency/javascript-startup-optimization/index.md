@@ -227,7 +227,7 @@ JavaScript can impact page performance in other ways:
 ## Patterns for reducing JavaScript delivery cost
 
 When you’re trying to keep parse/compile and network transmit times for JavaScript
-slow, there are patterns that can help like route-based chunking or
+low, there are patterns that can help like route-based chunking or
 [PRPL](/web/fundamentals/performance/prpl-pattern/).
 
 ### PRPL
